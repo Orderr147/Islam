@@ -13,8 +13,8 @@
 	font-family: 'bpicons';
 	font-weight: normal;
 	font-style: normal;
-	src: url('../fonts/bpicons/bpicons.eot');
-	src: url('../fonts/bpicons/bpiconsd41d.eot?#iefix') format('embedded-opentype'), url('../fonts/bpicons/bpicons.woff') format('woff'), url('../fonts/bpicons/bpicons.ttf') format('truetype'), url('../fonts/bpicons/bpicons.svg#bpicons') format('svg');
+	src: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR98vibfDeWa-9wgHiC2qJRMaAB_m7f2iQSqQ&usqp=CAU   ');
+	src: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb6nvAZ86wNBWP9f2gdcFYOE7FCd0ihYpBpg&usqp=CAU ') format('embedded-opentype'), url(' https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuv2-rzs1iMz195QSLPGWlkyPLWturi1giNg&usqp=CAU ') format('woff'), url('../fonts/bpicons/bpicons.ttf') format('truetype'), url('../fonts/bpicons/bpicons.svg#bpicons') format('svg');
 }
 *,
 *:after,
